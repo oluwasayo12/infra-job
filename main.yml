@@ -1,6 +1,6 @@
 ---
 - name: Exercise #1
-  hosts: 44.201.74.96
+  hosts: localhost
   user: ubuntu
   become: true
   become_method: sudo
